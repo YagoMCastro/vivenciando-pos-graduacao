@@ -12,13 +12,13 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
-  A long talk title that may <br>be kind of boring and <br>more than one line long
+  Vivenciando a Pós-Graduação em Geofísica 
 </h1>
+<h2>Benefícios Universitários<h2>
 <p id="talk-authors">
-  <a href="https://www.leouieda.com" id="talk-speaker">Leonardo Uieda</a>,
-  Author Two,
-  and
-  Author Three
+  <a href="https://github.com/yagoMCastro" id="talk-speaker">Yago Moreira Castro</a>,<a href="https://github.com/arthursmacedo">
+  Arthur Siqueira de Macêdo</a> &
+  Victor Sacek
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
@@ -26,9 +26,8 @@ The reveal.js configuration can be found in index.html
 <div class="col-large">
 
 <i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-XX Month 202X
+13 de Março de 2025
 <span style="margin: 0 20px"></span>
-Event/host of the talk
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
@@ -42,7 +41,6 @@ Feel free to screenshot/share/reuse this presentation
 <!-- Add logos here. Need these wrappers to align them to the bottom right -->
 <div class="talk-logos-container">
 <div class="talk-logos">
-  <a href="https://www.compgeolab.org"><img src="assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
   <a href="https://www.iag.usp.br/"><img src="assets/iag.png" alt="Instituto de Astronomia, Geofísica e Ciências Atmosféricas"></a>
   <a href="https://www.usp.br/"><img src="assets/usp.png" alt="Universidade de São Paulo"></a>
 </div>
@@ -53,6 +51,87 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
+# PROGRAMA DE APOIO À PERMANÊNCIA E FORMAÇÃO ESTUDANTIL
+
+<div class="row">
+<div class="col">
+
+- **Objetivo**: Promover condições para que estudantes em situação de vulnerabilidade socioeconômica possam concluir seus cursos, reduzindo a evasão e contribuindo para a formação acadêmica integral.
+
+</div>
+<div class="col tiny">
+
+<img src="assets/halfspace-temperature.png">
+
+</div>
+</div>
+
+===============================================================================
+
+# PAPFE
+
+<div class="row">
+<div class="col">
+
+- **Objetivo**: Promover condições para que estudantes em situação de vulnerabilidade socioeconômica possam concluir seus cursos, reduzindo a evasão e contribuindo para a formação acadêmica integral.
+
+</div>
+<div class="col tiny">
+
+<img src="assets/halfspace-temperature.png">
+
+</div>
+</div>
+
+
+===============================================================================
+
+# PAPFE
+
+<div class="row">
+<div class="col">
+
+**Benefícios Oferecidos**
+- Auxílio financeiro integral de R$850,00 mensais;
+- Auxílio parcial de R$320,00 mensais para estudantes contemplados com vagas nas moradias estudantis da USP.  
+- Refeições gratuitas nos restaurantes universitários para todos os beneficiários.  
+</div>
+<div class="col tiny">
+
+<img src="assets/halfspace-temperature.png">
+
+</div>
+</div>
+
+===============================================================================
+# PAPFE
+
+<div class="row">
+<div class="col">
+
+**Público-Alvo**
+- Estudantes com renda familiar per capita abaixo de 1,5 salário mínimo paulista.  
+- Não podem ter concluído outra graduação na USP nem receber outro auxílio da Universidade.
+</div>
+<div class="col tiny">
+
+<img src="assets/halfspace-temperature.png">
+
+🔗 **[Mais informações](https://prip.usp.br/apoio-estudantil/) e [edital](https://prip.usp.br/wp-content/uploads/sites/1128/2024/12/EDITAL-PAPFE25-v-Final.pdf):**  
+
+</div>
+</div>
+
+===============================================================================
+
+<!-- .slide: data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff" -->
+
+
+<h1 id="talk-title">
+PAPFE
+</h1>
+
+===============================================================================
 # Heading 1
 
 This is a slide with some content.
@@ -173,56 +252,7 @@ Light fade of the background with a dark quote.
 
 </div>
 
-===============================================================================
 
-# Two column layout
-
-<div class="row">
-<div class="col">
-
-## Theory
-
-Explain something here.
-This is how you make a FontAwesome list:
-
-<ul class="fa-ul">
-
-<li>
-<span class="fa-li"> <i class="fa fa-lightbulb fa-fw"></i> </span>
-Make a list with
-</li>
-
-<li>
-<span class="fa-li"> <i class="fa fa-file-alt fa-fw"></i> </span>
-some awesome icons
-</li>
-
-<li>
-<span class="fa-li"> <i class="fa fa-users fa-fw"></i> </span>
-instead of bullet points
-</li>
-
-</ul>
-
-</div>
-<div class="col tiny">
-
-<img src="assets/halfspace-temperature.png">
-
-Some text explaining the figure.
-Maybe even a bit of maths like $\gamma$.
-
-</div>
-</div>
-
-<div class="footnote">
-
-Good place for a citation or image credit.
-This one is by Leonardo Uieda (CC-BY).
-
-</div>
-
-===============================================================================
 
 <div class="r-stretch centered">
 <div>
