@@ -53,19 +53,6 @@ Feel free to screenshot/share/reuse this presentation
 
 # PROGRAMA DE APOIO À PERMANÊNCIA E FORMAÇÃO ESTUDANTIL
 
-<div class="row">
-<div class="col">
-
-- **Objetivo**: Promover condições para que estudantes em situação de vulnerabilidade socioeconômica possam concluir seus cursos, reduzindo a evasão e contribuindo para a formação acadêmica integral.
-
-</div>
-<div class="col tiny">
-
-<img src="assets/halfspace-temperature.png">
-
-</div>
-</div>
-
 ===============================================================================
 
 # PAPFE
@@ -78,7 +65,8 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 <div class="col tiny">
 
-<img src="assets/halfspace-temperature.png">
+<a href="https://www.instagram.com/prip.usp/"><img src="assets/papfe_insta.png"></a>
+
 
 </div>
 </div>
@@ -98,7 +86,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 <div class="col tiny">
 
-<img src="assets/halfspace-temperature.png">
+<a href="https://www.instagram.com/prip.usp/"><img src="assets/papfe_insta.png"></a>
 
 </div>
 </div>
@@ -112,26 +100,216 @@ Feel free to screenshot/share/reuse this presentation
 **Público-Alvo**
 - Estudantes com renda familiar per capita abaixo de 1,5 salário mínimo paulista.  
 - Não podem ter concluído outra graduação na USP nem receber outro auxílio da Universidade.
+
+<div class="footnote-center dark">
+
+🔗 [Mais informações](https://prip.usp.br/apoio-estudantil/) e [edital](https://prip.usp.br/wp-content/uploads/sites/1128/2024/12/EDITAL-PAPFE25-v-Final.pdf):  
+
+</div>
 </div>
 <div class="col tiny">
 
-<img src="assets/halfspace-temperature.png">
+<a href="https://www.instagram.com/prip.usp/"><img src="assets/papfe_insta.png"></a>
+</div>
+</div>
 
-🔗 **[Mais informações](https://prip.usp.br/apoio-estudantil/) e [edital](https://prip.usp.br/wp-content/uploads/sites/1128/2024/12/EDITAL-PAPFE25-v-Final.pdf):**  
+===============================================================================
+<!-- .slide:  data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
+
+# PASSE ESCOLAR E CIRCULAR
+
+
+===============================================================================
+
+# BILHETE ÚNICO ESTUDANTE - SPTRANS
+
+<div class="row">
+<div class="col">
+
+**Direito ao Benefício**
+- Estudantes de pós-graduação têm direito à meia tarifa no transporte público municipal e no sistema de Trem e Metrô.  
+- O benefício é concedido por meio do uso do **[Bilhete Único](https://estudante.sptrans.com.br/)**.
+
+
+</div>
+<div class="col tiny">
+
+
+<a href="https://estudante.sptrans.com.br/"><img src="assets/bilhete.png"></a>
 
 </div>
 </div>
 
 ===============================================================================
 
-<!-- .slide: data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff" -->
+# BILHETE ÚNICO ESTUDANTE - SPTRANS
+
+<div class="row">
+<div class="col">
 
 
-<h1 id="talk-title">
-PAPFE
-</h1>
+**Como Solicitar**
+1. A comprovação da matrícula é feita pela Unidade de Ensino.  
+2. A unidade envia os dados do aluno à **[SPTrans](https://estudante.sptrans.com.br/
+)** pelo caminho:
+   - **[Janus](https://uspdigital.usp.br/janus/comum/) > Aluno Regular > Passe Escolar > Solicitar**
+
+</div>
+<div class="col tiny">
+
+<a href="https://estudante.sptrans.com.br/"><img src="assets/bilhete.png"></a>
+
+</div>
+</div>
 
 ===============================================================================
+
+<!-- .slide:  data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
+
+# SAÚDE E BEM-ESTAR
+
+
+===============================================================================
+
+# ATENDIMENTO PSICOLÓGICO
+
+
+- O Instituto de Psicologia da USP (IPUSP) oferece [atendimento psicológico gratuito](https://www.ip.usp.br/site/servicos-a-comunidade/) para a comunidade USP.
+
+
+- **[ECOS:](https://prip.usp.br/programa-ecos/)** um programa de saúde com múltiplas frentes de ação:
+
+  - Espaço de atendimento no campus Butantã
+
+  - Escutas pontuais presenciais sem necessidade de agendamento
+
+  - Reflexão e encaminhamentos para redes de cuidado interna ou externa à USP
+
+  - Equipe composta por profissionais de saúde e alunes bolsistas de diversas áreas do conhecimento
+
+===============================================================================
+# HOSPITAL UNIVERSITÁRIO - HU
+
+<div class="row">
+<div class="col">
+
+- **Emergência:** pronto-socorro disponível
+- **Consultas Agendadas:** dermatologia, oftalmologia, psiquiatria, ginecologia e outras especialidades
+- **Acesso:** necessário fazer o documento do hospital
+
+<div class="footnote-center dark">
+
+🔗 [Mais informações](https://www.hu.usp.br/):  
+
+</div>
+
+</div>
+<div class="col tiny">
+
+<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+
+</div>
+</div>
+
+===============================================================================
+
+# Atendimento Odontológico para Alunos da USP
+
+- **Quem tem direito?**
+  - Alunos de graduação e pós + dependentes (cônjuges e filhos).
+
+- **Serviços na Clínica Odontológica SAS**
+  -  Emergências e rotina (cáries, limpezas, pequenas cirurgias) ✅
+  -  Procedimentos complexos são encaminhados à Faculdade de Odontologia ❌
+
+- **FUNDECTO** 
+  - Exames e procedimentos com **50% de desconto**.
+
+<div class="footnote-center dark">
+
+
+🔗 Mais informações: [Faculdade de Odontologia](https://bit.ly/31WPEYa), [Clínica SAS](https://sau.usp.br/clinica-odontologica) e [FUNDECTO](https://www.fundecto.com.br/pacientes/)
+
+</div>
+
+
+
+===============================================================================
+
+# Esportes e Atividades no CEPEUSP
+
+
+<div class="row">
+<div class="col">
+
+
+**Treinos e Cursos**
+- O CEPEUSP sedia os treinos das modalidades esportivas da Atlética (AAAGW).  
+- Oferece cursos como karatê, yoga, mat pilates, natação e mais.
+
+
+<div class="footnote-center dark">
+
+🔗 [Mais informações](https://www.hu.usp.br/):[Cursos do CEPEUSP](https://cepe.usp.br/), [Instagram AAAGW:](https://www.instagram.com/aaaglebwataghin) e  [Facebook AAAGWUSP](https://www.facebook.com/AAAGWUSP)
+
+</div>
+
+</div>
+<div class="col tiny">
+
+<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+
+</div>
+</div>
+
+===============================================================================
+
+# Esportes e Atividades no CEPEUSP
+
+
+<div class="row">
+<div class="col">
+
+
+**Piscinas**
+- Piscinas olímpicas para prática esportiva.  
+- Piscina recreativa disponível.  
+-Acesso às piscinas requer exame dermatológico oferecido pela LAAUSP. 
+
+<div class="footnote-center dark">
+
+🔗 [Mais informações](https://www.hu.usp.br/):[Cursos do CEPEUSP](https://cepe.usp.br/), [Instagram AAAGW:](https://www.instagram.com/aaaglebwataghin) e  [Facebook AAAGWUSP](https://www.facebook.com/AAAGWUSP)
+
+</div>
+
+</div>
+<div class="col tiny">
+
+<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+
+</div>
+</div>
+
+===============================================================================
+
+# HOSPITAL UNIVERSITÁRIO - HU
+
+<div class="row">
+<div class="col">
+
+
+</div> 
+
+</div>
+<div class="col tiny">
+
+<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+
+</div>
+</div>
+
+===============================================================================
+
 # Heading 1
 
 This is a slide with some content.
