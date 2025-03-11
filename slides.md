@@ -5,7 +5,7 @@ The reveal.js configuration can be found in index.html
 -------------------------------------------------------------------------------
 -->
 
-<!-- .slide: class="slide-title" data-background-image="assets/title-slide.svg" data-background-color="#000000" data-background-size="contain" -->
+<!-- .slide: class="slide-title" data-background-image="assets/logos/escudo_urania/urania_cinza.png" data-background-color="#000000" data-background-opacity="0.3" data-background-size="contain" -->
 
 <!-- Place the content at the bottom of the slide -->
 <div class="r-stretch">
@@ -50,6 +50,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 
 ===============================================================================
+<!-- .slide:  data-background-image="assets/praca_relogio.jpg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
 
 # PROGRAMA DE APOIO À PERMANÊNCIA E FORMAÇÃO ESTUDANTIL
 
@@ -114,7 +115,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 
 ===============================================================================
-<!-- .slide:  data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
+<!-- .slide:  data-background-image="assets/bilhete.png" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
 
 # PASSE ESCOLAR E CIRCULAR
 
@@ -164,7 +165,7 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
-<!-- .slide:  data-background-image="assets/agu2019.svg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
+<!-- .slide:  data-background-image="assets/raia.png" data-background-size="contain" data-background-opacity="0.3" data-background-color="#ffffff"  -->
 
 # SAÚDE E BEM-ESTAR
 
@@ -206,7 +207,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 <div class="col tiny">
 
-<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+<a href="https://www.hu.usp.br/"><img src="assets/hospital_universitario.jpg"></a>
 
 </div>
 </div>
@@ -285,25 +286,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 <div class="col tiny">
 
-<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
-
-</div>
-</div>
-
-===============================================================================
-
-# HOSPITAL UNIVERSITÁRIO - HU
-
-<div class="row">
-<div class="col">
-
-
-</div> 
-
-</div>
-<div class="col tiny">
-
-<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+<a href="https://www.hu.usp.br/"><img src="assets/piscina.png"></a>
 
 </div>
 </div>
@@ -311,6 +294,14 @@ Feel free to screenshot/share/reuse this presentation
 ===============================================================================
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8UORE0ertxI-7by9yGATz16nHj3zHA&ehbc=2E312F" height="998vh" width="10000vw"></iframe>
+
+===============================================================================
+
+<!-- .slide:  data-background-image="assets/apps.png" data-background-size="contain" data-background-opacity="0.8" data-background-color="#000000"  -->
+
+<a href="https://jornal.usp.br/universidade/universidade-aplicativos/"><h1>APLICATIVOS</h1></a>
+
+
 
 ===============================================================================
 
