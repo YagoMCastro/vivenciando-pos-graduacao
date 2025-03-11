@@ -245,7 +245,7 @@ Feel free to screenshot/share/reuse this presentation
 
 **Treinos e Cursos**
 - O CEPEUSP sedia os treinos das modalidades esportivas da Atlética (AAAGW).  
-- Oferece cursos como karatê, yoga, mat pilates, natação e mais.
+- Oferece cursos como karatê, yoga, pilates, natação e mais.
 
 
 <div class="footnote-center dark">
@@ -257,7 +257,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 <div class="col tiny">
 
-<a href="https://www.hu.usp.br/"><img src="assets/bilhete.png"></a>
+<a href="https://www.hu.usp.br/"><img src="assets/mapa-cepeusp.jpg"></a>
 
 </div>
 </div>
@@ -310,19 +310,7 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
-# Heading 1
-
-This is a slide with some content.
-
-## Heading 2
-
-* Bla bla
-* Bla bla
-
-### Heading 3
-
-Meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh
-meh meh.
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1X8UORE0ertxI-7by9yGATz16nHj3zHA&ehbc=2E312F" height="998vh" width="10000vw"></iframe>
 
 ===============================================================================
 
