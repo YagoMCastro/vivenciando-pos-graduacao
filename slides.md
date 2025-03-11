@@ -305,6 +305,37 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
+<!-- .slide:  data-background-image="assets/masp.jpg" data-background-size="contain" data-background-opacity="0.8" data-background-color="#000000"  -->
+
+# ARTE E CULTURA
+
+
+===============================================================================
+
+
+# ARTE E CULTURA
+
+
+<div class="row">
+<div class="col">
+
+- [Teatro USP :](http://www.usp.br/tusp/)
+- [Cinema USP: ](http://www.usp.br/cinusp/)
+- [Orquestra de Câmara da ECA:](http://www.ocam.usp.br/)
+- [Coral USP:](http://coralusp.prceu.usp.br/ )
+- [Filarmônica da USP: ](https://sites.ffclrp.usp.br/uspfilarmonica/)
+- [Orquestra Sinfônica da USP: ](http://www.osusp.prceu.usp.br/)
+
+</div>
+<div class="col tiny">
+
+<a href="https://www.hu.usp.br/"><img src="assets/ipiranga.png"></a>
+
+</div>
+</div>
+
+===============================================================================
+
 <div class="r-stretch">
 
 # Some facts
