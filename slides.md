@@ -319,12 +319,12 @@ Feel free to screenshot/share/reuse this presentation
 <div class="row">
 <div class="col">
 
-- [Teatro USP :](http://www.usp.br/tusp/)
-- [Cinema USP: ](http://www.usp.br/cinusp/)
-- [Orquestra de Câmara da ECA:](http://www.ocam.usp.br/)
-- [Coral USP:](http://coralusp.prceu.usp.br/ )
-- [Filarmônica da USP: ](https://sites.ffclrp.usp.br/uspfilarmonica/)
-- [Orquestra Sinfônica da USP: ](http://www.osusp.prceu.usp.br/)
+- [Teatro USP](http://www.usp.br/tusp/)
+- [Cinema USP](http://www.usp.br/cinusp/)
+- [Orquestra de Câmara da ECA](http://www.ocam.usp.br/)
+- [Coral USP](http://coralusp.prceu.usp.br/ )
+- [Filarmônica da USP](https://sites.ffclrp.usp.br/uspfilarmonica/)
+- [Orquestra Sinfônica da USP](http://www.osusp.prceu.usp.br/)
 
 </div>
 <div class="col tiny">
