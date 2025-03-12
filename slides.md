@@ -338,6 +338,49 @@ Sinta-se livre para compartilhar e reutilizar esta apresentação
 ===============================================================================
 
 
+<!-- .slide:  data-background-image="assets/iag_aerea.jpg" data-background-size="contain" data-background-opacity="0.3" data-background-color="#000000"  -->
+
+# Vantagens
+
+
+===============================================================================
+# Vantagens
+
+
+<div class="row">
+<div class="col">
+
+- [GitHub Student Developer Pack](https://education.github.com/experiences/understanding_markdown)
+- [Coursera for Campus](https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw)
+- [CamScanner](https://www.camscanner.com/)
+- [Notion](https://www.notion.so/)
+- [Software da Autodesk](http://www3.fo.usp.br/wiki/index.php/Autodesk_Education?fbclid=IwAR14oF-aHHTcFnLr2SeEaBAq0w4NhHbMUUZZHJPpDtpETZW5gqkZlz0p0ZQ)
+- [Spotify - 1 Mês Grátis - R$11,90](https://www.spotify.com/br-pt/student/)
+- [Mubi - R$21.90](https://mubi.com/pt/br/student)
+
+</div>
+<div class="col">
+
+- [Pressreader](https://www.pressreader.com/catalog)
+- [Tableau](https://www.tableau.com/pt-br/academic/students.)
+- [Office 365 Education](https://www.microsoft.com/pt-br/education/products/office)
+- [Lenovo](https://www.lenovo.com/br/pt/estudantes/)
+- [Dell](https://www.dell.com/pt-br/lp/mpp-brasil)
+- [Samsung 30% OFF](https://www.samsung.com/br/students-offers/)
+- [Poliglota - 10%OFF](https://poliglotaidiomas.com/)
+</div>
+</div>
+<div class="footnote-center dark">
+
+🔗 [Mais informações](https://jornal.usp.br/universidade/gratuidades-e-descontos-confira-as-vantagens-de-ser-aluno-da-usp/)  
+
+</div>
+
+===============================================================================
+<!-- .slide:  data-background-image="assets/verao.png" data-background-size="contain"  data-background-color="#fffff"  -->
+
+===============================================================================
+
 <!-- .slide: data-background-opacity="0.3" data-background-image="assets/logos/escudo_urania/urania_cinza.png"  data-background-size="contain" data-background-color="#000000" -->
 
 
