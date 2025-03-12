@@ -31,7 +31,8 @@ The reveal.js configuration can be found in index.html
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
-Feel free to screenshot/share/reuse this presentation
+Sinta-se livre para compartilhar e reutilizar esta apresentação
+
 <span style="margin: 0 20px"></span>
 <a href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by" style="margin: 0 10px 0 2px"></i>CC-BY 4.0 License</a>
 
@@ -332,39 +333,39 @@ Feel free to screenshot/share/reuse this presentation
 <a href="https://www.hu.usp.br/"><img src="assets/ipiranga.png"></a>
 
 </div>
-</div>
+</div>  
 
 ===============================================================================
 
-<!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
+
+<!-- .slide: data-background-opacity="0.3" data-background-image="assets/logos/escudo_urania/urania_cinza.png"  data-background-size="contain" data-background-color="#000000" -->
+
 
 <div class="r-stretch centered">
 <div>
 
 <i class="fas fa-comments"></i>
 <br>
-Contact:
-<a href="https://www.leouieda.com">www.leouieda.com</a>
+Contato:
+<br>
+<a>sacek@usp.br</a>
+<br>
+<a>arthursmacedo@usp.br</a>
+<br>
+<a>yagomcastro@usp.br</a>
 
 <i class="fab fa-github"></i>
 <br>
-Source code for this presentation:
+Código-fonte desta apresentação:
 <br>
-[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
+[https://github.com/YagoMCastro/vivenciando-pos-graduacao](https://github.com/YagoMCastro/vivenciando-pos-graduacao)
 
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 <br>
-Unless otherwise noted,
-the contents of this presentation are
-licensed under the
+O conteúdo desta apresentação está
+licenciado sob a
 <br>
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 </div>
-</div>
-<div class="footnote-left dark">
-
-The background image is a Landsat 9 scene of the city of São Paulo, Brazil,
-showing the USP campus in the center.
-
 </div>
