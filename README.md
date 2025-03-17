@@ -1,124 +1,89 @@
-# Template for my reveal.js based slides
+# Apresentação para o evento: Vivenciando a Pós-Graduação em Geofísica usando Reveal.js
 
-This is a template I use to make [reveal.js](https://revealjs.com/) slides
-for talks and lectures.
-It adds some custom styling and CSS classes for making columns, footnotes,
-and more.
+**Evento:** Vivenciando a Pós-Graduação em Geofísica 
+**Apresentador:** Yago Moreira Castro  
+**Prévia:** [https://yagomcastro.github.io/vivenciando-pos-graduacao/](https://yagomcastro.github.io/vivenciando-pos-graduacao/)
 
-**Preview:** https://www.leouieda.com/talk-template
+Um modelo de Leonardo Uieda foi usado para criar esta apresentação: [https://github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
 
-> The original inspiration is this template by Matthew Turk:
-> https://github.com/matthewturk/mjt-talk-template
+---
 
-## Using
+## Identidade Visual do IAG  
+- A identidade visual do IAG-USP, incluindo logotipos e elementos gráficos, está disponível na pasta `assets > logos`. Certifique-se de utilizá-los conforme as diretrizes institucionais para manter a padronização visual.
 
-1. Click on the "Use this template" button or go to
-   https://github.com/leouieda/talk-template/generate to create a
-   new repository for your slides.
-1. Change the HTML title (the one that appears on the browser tab)
-   in `index.html`.
-1. Remove the Plausible Analytics script from the `<head>` in `index.html`.
-1. Preview the presentation by
-   [serving the slides locally](#serving-the-slides-locally).
-1. Add your content to `slides.md` and images to `assets`
-   (remove the images you don't want to use).
-1. Commit and push your changes.
-1. Make your presentation public by
-   [enabling GitHub Pages](#serving-on-github-pages).
+---
 
-## What's included
+## Usando como modelo
 
-`index.html`: This is the master document that sets up reveal.js and
-its plugins and loads the slide content from `slides.md`.
-**Change the HTML `<title>` tag here**.
+1. Vá para [https://github.com/leouieda/talk-template/generate](https://github.com/leouieda/talk-template/generate) para criar um novo repositório para seus slides.
+2. Altere o título do HTML (aquele que aparece na aba do navegador) em `index.html`.
+3. Remova o script Plausible Analytics do `<head>` em `index.html`.
+4. Visualize a apresentação servindo os slides localmente.
+5. Adicione seu conteúdo a `slides.md` e imagens à pasta `assets` (remova as imagens que não deseja usar).
+6. Faça o commit e envie suas alterações.
+7. Torne sua apresentação pública ativando o GitHub Pages.
 
-`slides.md`: Markdown file with the actual slide content. The template
-includes some slides that demo the custom CSS classes available.
-**Add your content here.**
+---
 
-`css/style.less`: Custom styling and CSS classes (using
-[Less](http://lesscss.org/)). Edit to tweak colours, sizes, fonts,
-spacing, etc.
+## O que está incluído
 
-`assets`: Images used in the presentation. You can probably delete all
-of these when making your slides. Replace the `favicon.png` with a
-32 x 32 px image to customize the icon (this is set in `index.html`).
+- **`index.html`**: Documento principal que configura o reveal.js e seus plugins e carrega o conteúdo dos slides de `slides.md`. Altere a tag HTML `<title>` aqui.
+- **`slides.md`**: Arquivo Markdown com o conteúdo real dos slides. O modelo inclui alguns slides que demonstram as classes CSS personalizadas disponíveis. Adicione seu conteúdo aqui.
+- **`css/style.less`**: Estilização personalizada e classes CSS (usando Less). Edite para ajustar cores, tamanhos, fontes, espaçamento, etc.
+- **`assets`**: Imagens usadas na apresentação. Você provavelmente pode excluir todas essas ao criar seus slides. Substitua `favicon.png` por uma imagem de 32 x 32 px para personalizar o ícone (configurado em `index.html`).
+- **`fonts`**: Fontes utilizadas: FontAwesome, Atkinson Hyperlegible, Ubuntu Mono. Incluídas no repositório para acesso offline. Você pode removê-las e incluir fontes de um CDN (como Google Fonts) em `index.html`.
+- **`packages`**: Versões locais de reveal.js, Less e KaTeX (para matemática) utilizadas. Ter esses pacotes no repositório é importante para visualizar os slides offline (em um avião ou sala de aula sem acesso fácil à internet).
+- **`serve.py`**: Script Python que serve os slides e os recarrega sempre que os arquivos de origem são alterados. Muito útil para desenvolvimento. Veja as instruções abaixo.
 
-`fonts`: Sources for the fonts used:
-[FontAwesome](https://fontawesome.com/),
-[Atkinson Hyperlegible](https://brailleinstitute.org/freefont),
-[Ubuntu Mono](https://design.ubuntu.com/font/).
-Included in the repository for offline access. You could remove them and
-include fonts from a CDN (like Google Fonts) in `index.html`.
+---
 
-`packages`: "Vendored" versions of reveal.js, Less, and
-[KaTeX](https://katex.org/) (for maths) that are used.
-Having them in the repository is important for using the slides offline
-(on a plane or lecture room without easy internet access).
+## Servindo os slides localmente
 
-`serve.py`: Python script that serves the slides and reloads them
-whenever the source files change. Very handy for development.
-See below for instructions.
+Infelizmente, você não pode simplesmente abrir o arquivo `index.html` em um navegador para visualizar seus slides. O Reveal.js exige um servidor local real. Você pode configurá-lo da maneira que preferir. Abaixo, forneço instruções para fazer isso com Python (que é o que uso na maioria das vezes), mas funcionaria com qualquer outro servidor local.
 
-## Serving the slides locally
+Primeiro, instale o pacote Python `livereload`:
 
-Unfortunately, you can't just open the `index.html` file on browser
-to view your slides.
-Reveal.js requires an actual local server.
-You can set one up however you'd like.
-Below, I provide instructions for doing so in Python (which is what
-I use most of the time) but it would work with any other local
-server.
-
-First, install the [livereload](https://github.com/lepture/python-livereload)
-Python package:
-
-```
+```sh
 pip install livereload
 ```
 
-or
+ou
 
-```
+```sh
 conda install livereload -c conda-forge
 ```
 
-Then, start a server at http://localhost:8008 by running:
+Depois, inicie um servidor em [http://localhost:8008](http://localhost:8008) executando:
 
-```
+```sh
 python serve.py
 ```
 
-The slides will open on your default browser and will automatically reload
-when you update any of the files in the repository.
+Os slides serão abertos em seu navegador padrão e serão recarregados automaticamente quando você atualizar qualquer arquivo no repositório.
 
-## Serving on GitHub Pages
+---
 
-Go to your repository "Settings > Pages" and select "Source" as the
-`main` branch and `/ (root)`. You probably want to select "Enforce HTTPS"
-as well.
+## Publicando no GitHub Pages
 
-Your slides should now be served at https://USERNAME.github.io/REPOSITORY
-or equivalent if you're using a custom domain.
-It may take a little while for this to happen.
+Vá até **Settings > Pages** do seu repositório e selecione **Source** como a branch principal e `/ (root)`. Provavelmente, você também desejará selecionar **Enforce HTTPS**.
 
-For example, this template is served at
-https://www.leouieda.com/talk-template.
+Seus slides devem agora estar disponíveis em `https://USERNAME.github.io/REPOSITORY` ou equivalente, caso esteja usando um domínio personalizado. Pode levar algum tempo para isso acontecer.
 
-## Exporting to PDF
+Por exemplo, este modelo está disponível em: [https://www.leouieda.com/talk-template](https://www.leouieda.com/talk-template)
 
-You can save your slides to PDF for a backup or to distribute
-(I find students like this because they can annotate the PDF).
-To do so, add `?print-pdf` to the end of the URL (either local
-server or hosted) and then print the page to PDF.
+---
 
-This **works best on Chrome/Chromium**. The slides tend to be
-distorted on Firefox for some reason.
+## Exportando para PDF
 
-**WARNING:** Videos and gifs don't work on PDFs.
+Você pode salvar seus slides em PDF para backup ou distribuição (os alunos costumam gostar disso porque podem fazer anotações no PDF). Para fazer isso, adicione `?print-pdf` ao final da URL (seja do servidor local ou hospedado) e imprima a página em PDF.
 
-## License
+Isso funciona melhor no Chrome/Chromium. Os slides tendem a ficar distorcidos no Firefox por algum motivo.
 
-The template (`slides.md`, `index.html`, and `css/style.less`) is licensed under a
-<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
-Attribution 4.0 International License</a>.
+**ATENÇÃO:** Vídeos e gifs não funcionam em PDFs.
+
+---
+
+## Licença
+
+O modelo (`slides.md`, `index.html` e `css/style.less`) está licenciado sob uma **Licença Creative Commons Atribuição 4.0 Internacional**.
+
